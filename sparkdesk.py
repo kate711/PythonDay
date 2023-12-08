@@ -15,6 +15,6 @@ plt.ylabel('Y轴')
 # 设置图像的标题
 plt.title('折线图示例')
 # git pull --rebase origin master
-#
+# git push origin master
 # 使用show()函数显示图像
 plt.show()
